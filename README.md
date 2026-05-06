@@ -1,2 +1,2 @@
 # SQL-desde-Python
-Implementaremos SQL desde Python com practica
+Implementaremos SQL desde Python como practica
